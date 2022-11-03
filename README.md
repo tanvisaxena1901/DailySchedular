@@ -1,1 +1,2 @@
 # DailySchedular
+This is a Daily Schedular in which the user can type in the text area, and save by clicking the button on the right. Contents of text area will be saved to local storage when the user clicks the save button on the right. In addition, the text will remain after refreshing the page. Gray indicates that the time block is in the past, red indicates the present time block, and green indicates that the time block is in the future.
